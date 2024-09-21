@@ -1,0 +1,33 @@
+
+body{
+    margin: 20px;
+    text-align: center;
+    font-size: 20px;
+    color:white;
+}
+h1{
+    font-size: 25px;
+}
+#list{
+    font-size: 20px;
+    color: brown;
+}
+.bg{
+    background-image: url("https://wallpapercave.com/wp/wp3248771.jpg");
+    height: 600px;
+    width: 450px;
+    
+}
+button{
+    background-color: aqua;
+    height: 35px;
+    width: 50px;
+   border-color: white;
+}
+.tod{
+    font-size: 30px;
+}
+.read{
+   text-decoration: underline;
+}
+   
